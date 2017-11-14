@@ -1,4 +1,5 @@
-body {
-	background-color: pink;
-
+#container {
+	background-color: grey;
+	width: 360px;
+	margin: 0 auto;
 }
