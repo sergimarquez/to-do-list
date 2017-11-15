@@ -20,7 +20,7 @@ $("input[type='text']").keypress(function(event){
 		var newEntry = $(this).val();
 		$(this).val("");
 	//Add it to the list
-		$("ul").append("<li><span>X</span> " + newEntry + "</li>");
+		$("ul").append("<li><span><i class='fa fa-trash'></i></span> " + newEntry + "</li>");
 	}
 });
 
