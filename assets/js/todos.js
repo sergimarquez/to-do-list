@@ -24,6 +24,12 @@ $("input[type='text']").keypress(function(event){
 	}
 });
 
+
+//Toggle Add New Todo
+
+$(".fa-plus").click(function(){
+	$("input[type='text']").fadeToggle();
+});
 	
 
 	

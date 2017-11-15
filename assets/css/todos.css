@@ -5,13 +5,6 @@ body {
 	background: linear-gradient(to right, #7AA1D2, #DBD4B4, #CC95C0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
-#container {
-	width: 360px;
-	margin: 100px auto;
-	background-color: #F7F7F7;
-	box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
-}
-
 h1 {
 	background-color: #2980b9;
 	margin: 0;
@@ -20,10 +13,6 @@ h1 {
 	font-size: 24px;
 	font-weight: normal;
 	text-transform: uppercase;
-}
-
-.fa-plus{
-	float: right;
 }
 
 input {
@@ -77,9 +66,18 @@ li:nth-child(2n){
 	background-color: #F7F7F7;
 }
 
-
+.fa-plus{
+	float: right;
+}
 
 .completed {
 	color: gray;
 	text-decoration: line-through;
+}
+
+#container {
+	width: 360px;
+	margin: 100px auto;
+	background-color: #F7F7F7;
+	box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
 }
