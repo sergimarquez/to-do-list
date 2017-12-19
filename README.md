@@ -1,9 +1,9 @@
 # To Do List
 
-A "Guess the Color" Game built with HTML5, CSS and JavaScript. 
+A simple to do list app built with JavaScript. 
 
-The goal is to guess the RGB color that appears on top. You can choose Easy or Hard Mode.
+You can add and delte items and cross the completed tasks. 
 
-[View Demo](https://sergimarquez.github.io/color-game/)
+[View Demo](https://sergimarquez.github.io/to-do-list/)
 
-![project screenshot](/screenshot.jpg?raw=true "Color Game Screenshot")
+![project screenshot](/screenshot.jpg?raw=true "To Do List ProjectScreenshot")
